@@ -1,0 +1,16 @@
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\bin\Debug\net5.0\C#assignmet1.exe
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\bin\Debug\net5.0\C#assignmet1.deps.json
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\bin\Debug\net5.0\C#assignmet1.runtimeconfig.json
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\bin\Debug\net5.0\C#assignmet1.runtimeconfig.dev.json
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\bin\Debug\net5.0\C#assignmet1.dll
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\bin\Debug\net5.0\ref\C#assignmet1.dll
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\bin\Debug\net5.0\C#assignmet1.pdb
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\C#assignmet1.csprojAssemblyReference.cache
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\C#assignmet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\C#assignmet1.AssemblyInfoInputs.cache
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\C#assignmet1.AssemblyInfo.cs
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\C#assignmet1.csproj.CoreCompileInputs.cache
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\C#assignmet1.dll
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\ref\C#assignmet1.dll
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\C#assignmet1.pdb
+C:\Users\vinay singh jadon\Desktop\C#assignmet1\obj\Debug\net5.0\C#assignmet1.genruntimeconfig.cache
